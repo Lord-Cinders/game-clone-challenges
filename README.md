@@ -1,6 +1,6 @@
 # Game Clone Challenges
 
-A list of game clone challenges to practice game programming.
+A list of progressive game clone challenges to practice game programming.
 
 ## Table of Contents
 
