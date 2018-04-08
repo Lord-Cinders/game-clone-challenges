@@ -16,8 +16,9 @@ A list of game clone challenges to practice game programming.
 10. [Scramble](#scramble)
 11. [Warcraft](#warcraft)
 12. [Wolfenstein 3D](#wolfenstein-3d)
-13. [Turok](#turok)
-14. [Super Mario 64](#super-mario-64)
+13. [Doom](#doom)
+14. [Turok](#turok)
+15. [Super Mario 64](#super-mario-64)
 
 ## Match Game
 
@@ -185,6 +186,20 @@ From Wikipedia:
 - [Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)
 - [Wolfenstein 3D's Source Code](https://github.com/id-Software/wolf3d)
 - [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876)
+
+## Doom
+
+![Doom](img/doom.jpg)
+
+From Wikipedia:
+> Doom (typeset as DOOM in official documents)[1] is a 1993 science fiction horror-themed first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail.
+
+### Constraints
+
+### Challenges
+
+### Resources
+- [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
 
 ## Turok
 
