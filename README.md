@@ -168,6 +168,7 @@ From Wikipedia:
 
 ### Resources
 - [Warcraft](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
+- [Warcraft: Orcs and Human: Human Campaign Playthrough](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
 
 ## Wolfenstein 3D
 
