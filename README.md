@@ -14,11 +14,12 @@ A list of progressive game clone challenges to practice game programming.
 08. [Galaga](#galaga)
 09. [Pac-Man](#pac-man)
 10. [Scramble](#scramble)
-11. [Warcraft](#warcraft)
-12. [Wolfenstein 3D](#wolfenstein-3d)
-13. [Doom](#doom)
-14. [Turok](#turok)
-15. [Super Mario 64](#super-mario-64)
+11. [Zelda](#zelda)
+12. [Warcraft](#warcraft)
+13. [Wolfenstein 3D](#wolfenstein-3d)
+14. [Doom](#doom)
+15. [Turok](#turok)
+16. [Super Mario 64](#super-mario-64)
 
 ## Match Game
 
