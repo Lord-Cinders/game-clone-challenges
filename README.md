@@ -15,7 +15,7 @@ A list of progressive game clone challenges to practice game programming.
 09. [Pac-Man](#pac-man)
 10. [Scramble](#scramble)
 11. [Zelda](#zelda)
-12. [Warcraft](#warcraft)
+12. [Warcraft: Orcs & Humans](#warcraft)
 13. [Wolfenstein 3D](#wolfenstein-3d)
 14. [Doom](#doom)
 15. [Turok](#turok)
@@ -159,7 +159,7 @@ From Wikipedia:
 ### Resources
 - [Scramble](https://en.wikipedia.org/wiki/Scramble_(video_game))
 
-## Warcraft
+## Warcraft: Orcs & Humans
 
 ![Warcraft: Orcs & Humans](img/warcraft.gif)
 
