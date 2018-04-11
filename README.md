@@ -201,6 +201,7 @@ From Wikipedia:
 
 ### Resources
 - [Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [Doom's Source Code](https://github.com/id-Software/DOOM)
 
 ## Turok
 
