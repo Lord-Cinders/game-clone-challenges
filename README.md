@@ -92,6 +92,7 @@ From Wikipedia:
 
 ### Resources
 - [Wikipedia - Galaga](https://en.wikipedia.org/wiki/Galaga)
+- [Steam - Galaga](http://store.steampowered.com/app/403430/ARCADE_GAME_SERIES_GALAGA/)
 - [Gameplay Video](https://www.youtube.com/watch?v=dvjapcHsqXY)
 
 ## Pac-Man
@@ -103,6 +104,7 @@ From Wikipedia:
 
 ### Resources
 - [Wikipedia - Pac-Man](https://en.wikipedia.org/wiki/Pac-Man)
+- [Steam - Pac-Man](http://store.steampowered.com/app/394160/ARCADE_GAME_SERIES_PACMAN/)
 - [Gameplay Video](https://www.youtube.com/watch?v=uswzriFIf_k)
 
 ## Scramble
@@ -136,6 +138,7 @@ From Wikipedia:
 
 ### Resources
 - [Wikipedia - Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)
+- [Steam - Wolfenstein 3D](http://store.steampowered.com/app/2270/Wolfenstein_3D/)
 - [Gameplay Video](https://www.youtube.com/watch?v=561sPCk6ByE)
 - [Wolfenstein 3D's Source Code](https://github.com/id-Software/wolf3d)
 - [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876)
@@ -149,6 +152,7 @@ From Wikipedia:
 
 ### Resources
 - [Wikipedia - Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [Steam - Doom](http://store.steampowered.com/app/2280/Ultimate_Doom/)
 - [Gameplay Video](https://www.youtube.com/watch?v=FMK0znPb6Dc)
 - [Doom's Source Code](https://github.com/id-Software/DOOM)
 
