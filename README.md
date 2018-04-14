@@ -13,11 +13,9 @@ A list of progressive game clone challenges to practice game programming.
 - [Galaga](#galaga)
 - [Pac-Man](#pac-man)
 - [Scramble](#scramble)
-- [Warcraft](#warcraft-orcs-&-humans)
+- [Warcraft](#warcraft-orcs--humans)
 - [Wolfenstein 3D](#wolfenstein-3d)
 - [Doom](#doom)
-- [Resources](#resources)
-- [References](#references)
 
 ## Tic-Tac-Toe
 
