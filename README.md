@@ -152,19 +152,6 @@ From Wikipedia:
 - [Gameplay Video](https://www.youtube.com/watch?v=FMK0znPb6Dc)
 - [Doom's Source Code](https://github.com/id-Software/DOOM)
 
-## Resources
-
-### Libraries
-- [SDL](https://www.libsdl.org/)
-- [SFML](https://www.sfml-dev.org/)
-- [Raylib](http://www.raylib.com/)
-- [GFLW](http://www.glfw.org/)
-
-### Art
-
-- [OpenGameArt](https://opengameart.org/)
-- [itch - Game Assets](https://itch.io/game-assets)
-
 ## References
 
 > - [Starting out on Game Programming](http://lazyfoo.net/articles/article01/index.php)  
