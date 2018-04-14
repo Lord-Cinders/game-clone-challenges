@@ -231,6 +231,13 @@ From Wikipedia:
 ### Resources
 - [Super Mario 64](https://en.wikipedia.org/wiki/Super_Mario_64)
 
+## Resources
+
+- [SDL](https://www.libsdl.org/)
+- [SFML](https://www.sfml-dev.org/)
+- [Raylib](http://www.raylib.com/)
+- [GFLW](http://www.glfw.org/)
+
 ## References
 
 > - [Starting out on Game Programming](http://lazyfoo.net/articles/article01/index.php)  
