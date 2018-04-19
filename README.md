@@ -30,6 +30,7 @@ From Wikipedia:
   * Start Game option
 * Game Over screen
   * Add an option to play again
+  * Add an option to exit game
 
 ### Challenges
 
