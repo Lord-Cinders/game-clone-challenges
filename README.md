@@ -36,11 +36,10 @@ From Wikipedia:
 * Use your framework of choice to draw the board, X, and O.
 * Add a 2 player mode
   * Add the option to the Main Menu
-  * Include Player 2 Game Over/Winner screen.
 * Sound Effects
   * Add sound effects for placing down X and O
-* Add who won to Game Over screen (i.e. Player, Computer, Player 1, or Player 2)
-
+* Add who won to Game Over screen (i.e. Player, Computer, Player 1, or Player 2)  
+  
 ### Resources
 - [Wikipedia - Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
