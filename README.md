@@ -2,7 +2,7 @@
 
 A list of progressive games to clone for the practicing programmer.
 
-## Table of Contents
+## Contents
 
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Duck Hunt](#duck-hunt)
