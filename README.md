@@ -99,6 +99,7 @@ Form Wikipedia:
 ### Resources
 - [Wikipedia - Space Invaders](https://en.wikipedia.org/wiki/Space_Invaders)
 - [Gameplay Video](https://www.youtube.com/watch?v=vYMent6mg_c)
+- [Space Invaders from Scratch](http://nicktasios.nl/posts/space-invaders-from-scratch-part-4.html)
 
 ## Galaga
 
