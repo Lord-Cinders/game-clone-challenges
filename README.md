@@ -178,7 +178,7 @@ From Wikipedia:
 
 ## Minecraft
 
-![Minecraft](img/minecraft.jpg)
+![Minecraft](img/minecraft.png)
 
 From Wikipedia:
 > Minecraft is a sandbox video game created by Swedish game developer Markus Persson aka "Notch" and later developed by Mojang. Minecraft allows players to build with a variety of different cubes in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
