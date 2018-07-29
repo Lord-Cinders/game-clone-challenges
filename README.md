@@ -16,6 +16,7 @@ A progressive list of game clones for the practicing programmer.
 - [Warcraft](#warcraft-orcs--humans)
 - [Wolfenstein 3D](#wolfenstein-3d)
 - [Doom](#doom)
+- [Minecraft](#minecraft)
 
 ## Tic-Tac-Toe
 
@@ -144,8 +145,8 @@ From Wikipedia:
 > Warcraft: Orcs & Humans is a real-time strategy game (RTS), developed by Blizzard Entertainment and published by Blizzard and Interplay Productions. The MS-DOS version was released on 23 November 1994 and the Macintosh version in early 1996. Sales were fairly high, reviewers were mostly impressed, and the game won three awards and was a finalist for three others. There was a CD re-release, namely version 1.21 (CD version), that didn't have the word-from-the-user-manual copy protection of prior versions. The sequel, Warcraft II: Tides of Darkness, became the main rival to Westwood Studios' Command & Conquer series, and this competition fostered an RTS boom in the mid to late 1990s.
 
 ### Resources
-- [Warcraft](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
-- [Gameplay Video](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
+- [Warcraft - Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
+- [Gameplay - YouTube](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
 
 ## Wolfenstein 3D
 
@@ -155,9 +156,9 @@ From Wikipedia:
 > Wolfenstein 3D is a first-person shooter video game developed by id Software and published by Apogee Software and FormGen. Originally released on May 5, 1992 for MS-DOS, it was inspired by the 1981 Muse Software video game Castle Wolfenstein, and is the third installment in the Wolfenstein series. In Wolfenstein 3D, the player assumes the role of Allied spy William "B.J." Blazkowicz during World War II as he escapes from the Nazi German prison Castle Wolfenstein and carries out a series of crucial missions against the Nazis. The player traverses through each of the game's levels to find an elevator to the next level or kill a final boss, fighting Nazi soldiers, dogs, and other enemies with knives, pistols, and other guns.
 
 ### Resources
-- [Wikipedia - Wolfenstein 3D](https://en.wikipedia.org/wiki/Wolfenstein_3D)
-- [Steam - Wolfenstein 3D](http://store.steampowered.com/app/2270/Wolfenstein_3D/)
-- [Gameplay Video](https://www.youtube.com/watch?v=561sPCk6ByE)
+- [Wolfenstein 3D - Wikipedia](https://en.wikipedia.org/wiki/Wolfenstein_3D)
+- [Wolfenstein 3D - Steam](http://store.steampowered.com/app/2270/Wolfenstein_3D/)
+- [Gameplay - YouTube](https://www.youtube.com/watch?v=561sPCk6ByE)
 - [Wolfenstein 3D's Source Code](https://github.com/id-Software/wolf3d)
 - [Game Engine Black Book: Wolfenstein 3D](https://www.amazon.com/dp/1539692876)
 - [Lode's Computer Graphics Tutorial: Raycasting](https://lodev.org/cgtutor/raycasting.html)
@@ -170,10 +171,24 @@ From Wikipedia:
 > Doom (typeset as DOOM in official documents)[1] is a 1993 science fiction horror-themed first-person shooter (FPS) video game by id Software. It is considered one of the most significant and influential titles in video game history, for having helped to pioneer the now-ubiquitous first-person shooter. The original game was divided into three nine-level episodes and was distributed via shareware and mail order. The Ultimate Doom, an updated release of the original game featuring a fourth episode, was released in 1995 and sold at retail.
 
 ### Resources
-- [Wikipedia - Doom](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
-- [Steam - Doom](http://store.steampowered.com/app/2280/Ultimate_Doom/)
-- [Gameplay Video](https://www.youtube.com/watch?v=FMK0znPb6Dc)
+- [Doom - Wikipedia](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
+- [Doom - Steam](http://store.steampowered.com/app/2280/Ultimate_Doom/)
+- [Gameplay - YouTube](https://www.youtube.com/watch?v=FMK0znPb6Dc)
 - [Doom's Source Code](https://github.com/id-Software/DOOM)
+
+## Minecraft
+
+![Minecraft](img/minecraft.jpg)
+
+From Wikipedia:
+> Minecraft is a sandbox video game created by Swedish game developer Markus Persson aka "Notch" and later developed by Mojang. Minecraft allows players to build with a variety of different cubes in a 3D procedurally generated world, requiring creativity from players. Other activities in the game include exploration, resource gathering, crafting, and combat.
+
+### Resources
+- [Minecraft - Wikipedia](https://en.wikipedia.org/wiki/Minecraft)
+- [Gameplay - YouTube](https://www.youtube.com/watch?v=CSvXkHK7z68)
+- [Craft](https://github.com/fogleman/Craft)
+- [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/)
+- [Voxel - Wikipedia](https://en.wikipedia.org/wiki/Voxel)
 
 ## References
 
