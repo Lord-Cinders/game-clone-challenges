@@ -175,6 +175,7 @@ From Wikipedia:
 - [Doom - Steam](http://store.steampowered.com/app/2280/Ultimate_Doom/)
 - [Gameplay - YouTube](https://www.youtube.com/watch?v=FMK0znPb6Dc)
 - [Doom's Source Code](https://github.com/id-Software/DOOM)
+- [Game Engine Black Book: Doom](https://www.amazon.com/dp/1987418433/)
 
 ## Minecraft
 
