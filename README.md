@@ -147,6 +147,7 @@ From Wikipedia:
 ### Resources
 - [Warcraft - Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
 - [Gameplay - YouTube](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
+- [Warcraft: Orcs & Humans Remake's Source Code](https://github.com/acoto87/war1)
 
 ## Wolfenstein 3D
 
