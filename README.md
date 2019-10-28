@@ -76,7 +76,7 @@ From Wikipedia
 
 ### Resources
 - [Wikipedia - Tetris](https://en.wikipedia.org/wiki/Tetris)
-- [Gameplay Video]()
+- [Gameplay Video](https://www.youtube.com/watch?v=O0gAgQQHFcQ)
 
 ## Breakout
 
@@ -89,6 +89,7 @@ From Wikipedia:
 - [Wikipedia - Breakout](https://en.wikipedia.org/wiki/Breakout_(video_game))
 - [Gameplay Video](https://www.youtube.com/watch?v=JRAPnuwnpRs)
 - [How Steve Wozniak Created Breakout](https://www.youtube.com/watch?v=17eUExffa5w)
+- [Breaking Down Breakout: System And Level Design For Breakout-style Games](https://www.gamasutra.com/view/feature/130053/breaking_down_breakout_system_and_.php)
 
 ## Space Invaders
 
