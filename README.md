@@ -200,7 +200,7 @@ From Wikipedia:
 > - [How do I make games? A Path to Game Development](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/how-do-i-make-games-a-path-to-game-development-r892)
 > - ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 > - [What are good games to “earn your wings” with?](https://gamedev.stackexchange.com/a/945)
-> - [GameDev Challenges](https://www.gamedev.net/forums/forum/81-gamedev-challenges/)
+> - [GameDev Challenges](https://www.gamedev.net/challenges/)
 > - [Building A Game On Your Own](http://www.flipcode.com/archives/Building_A_Game_On_Your_Own.shtml)
 > - [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
 > - [How do I get started programming games???](https://www.gamasutra.com/blogs/TommyRefenes/20130107/184432/How_do_I_get_started_programming_games.php)
