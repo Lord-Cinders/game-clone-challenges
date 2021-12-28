@@ -187,3 +187,4 @@ From Wikipedia:
 > - [Building A Game On Your Own](http://www.flipcode.com/archives/Building_A_Game_On_Your_Own.shtml)
 > - [Finishing a Game](http://makegames.tumblr.com/post/1136623767/finishing-a-game)
 > - [How do I get started programming games???](https://www.gamasutra.com/blogs/TommyRefenes/20130107/184432/How_do_I_get_started_programming_games.php)
+> - [Game Maker’s Toolkit: Developing](https://www.youtube.com/playlist?list=PLc38fcMFcV_uH3OK4sTa4bf-UXGk2NW2n)
