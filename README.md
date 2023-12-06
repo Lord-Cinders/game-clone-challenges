@@ -41,16 +41,7 @@ From Wikipedia:
 - [Wikipedia - Pong](https://en.wikipedia.org/wiki/Pong)
 - [Gameplay Video](https://www.youtube.com/watch?v=fiShX2pTz9A)
 
-## Tetris
 
-![Tetris](img/tetris.png)
-
-From Wikipedia
-> Tetris is a tile-matching puzzle video game, originally designed and programmed by Russian game designer Alexey Pajitnov. It was released on June 6, 1984, while he was working for the Dorodnitsyn Computing Centre of the Academy of Science of the Soviet Union in Moscow. He derived its name from the Greek numerical prefix tetra- (all of the game's pieces contain four segments) and tennis, Pajitnov's favorite sport.
-
-### Resources
-- [Wikipedia - Tetris](https://en.wikipedia.org/wiki/Tetris)
-- [Gameplay Video](https://www.youtube.com/watch?v=O0gAgQQHFcQ)
 
 ## Breakout
 
@@ -88,6 +79,17 @@ From Wikipedia:
 - [Wikipedia - Galaga](https://en.wikipedia.org/wiki/Galaga)
 - [Steam - Galaga](http://store.steampowered.com/app/403430/ARCADE_GAME_SERIES_GALAGA/)
 - [Gameplay Video](https://www.youtube.com/watch?v=dvjapcHsqXY)
+
+## Tetris
+
+![Tetris](img/tetris.png)
+
+From Wikipedia
+> Tetris is a tile-matching puzzle video game, originally designed and programmed by Russian game designer Alexey Pajitnov. It was released on June 6, 1984, while he was working for the Dorodnitsyn Computing Centre of the Academy of Science of the Soviet Union in Moscow. He derived its name from the Greek numerical prefix tetra- (all of the game's pieces contain four segments) and tennis, Pajitnov's favorite sport.
+
+### Resources
+- [Wikipedia - Tetris](https://en.wikipedia.org/wiki/Tetris)
+- [Gameplay Video](https://www.youtube.com/watch?v=O0gAgQQHFcQ)
 
 ## Pac-Man
 
