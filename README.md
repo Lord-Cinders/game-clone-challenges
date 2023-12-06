@@ -5,17 +5,17 @@ A progressive list of game clones for the practicing programmer.
 ## Contents
 
 - [Tic-Tac-Toe](#tic-tac-toe)
-- [Duck Hunt](#duck-hunt)
 - [Pong](#pong)
-- [Tetris](#tetris)
 - [Breakout](#breakout)
 - [Space Invaders](#space-invaders)
 - [Galaga](#galaga)
-- [Pac-Man](#pac-man)
+- [Tetris](#tetris)
 - [Scramble](#scramble)
-- [Warcraft](#warcraft-orcs--humans)
+- [Pac-Man](#pac-man)
+- [Duck Hunt](#duck-hunt)
 - [Wolfenstein 3D](#wolfenstein-3d)
 - [Doom](#doom)
+- [Warcraft](#warcraft-orcs--humans)
 - [Minecraft](#minecraft)
 
 ## Tic-Tac-Toe
@@ -28,16 +28,7 @@ From Wikipedia:
 ### Resources
 - [Wikipedia - Tic-Tac-Toe](https://en.wikipedia.org/wiki/Tic-tac-toe)
 
-## Duck Hunt
 
-![Duck Hunt](img/duck_hunt.jpg)
-
-From Wikipedia:
-> Duck Hunt is a light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System (NES) video game console. First released in Japan on April 21, 1984, it was later released on October 18, 1985 in North America as a launch game for the NES, and on August 15, 1987 in Europe. The game was released as a Virtual Console title for the Wii U in 2014.
-
-### Resources
-- [Wikipedia - Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
-- [Gameplay Video](https://www.youtube.com/watch?v=ZPLNxy7oel8)
 
 ## Pong
 
@@ -121,17 +112,17 @@ From Wikipedia:
 - [Wikipedia - Scramble](https://en.wikipedia.org/wiki/Scramble_(video_game))
 - [Gameplay Video](https://www.youtube.com/watch?v=m-PDf1Su6gA)
 
-## Warcraft: Orcs & Humans
+## Duck Hunt
 
-![Warcraft: Orcs & Humans](img/warcraft.gif)
+![Duck Hunt](img/duck_hunt.jpg)
 
 From Wikipedia:
-> Warcraft: Orcs & Humans is a real-time strategy game (RTS), developed by Blizzard Entertainment and published by Blizzard and Interplay Productions. The MS-DOS version was released on 23 November 1994 and the Macintosh version in early 1996. Sales were fairly high, reviewers were mostly impressed, and the game won three awards and was a finalist for three others. There was a CD re-release, namely version 1.21 (CD version), that didn't have the word-from-the-user-manual copy protection of prior versions. The sequel, Warcraft II: Tides of Darkness, became the main rival to Westwood Studios' Command & Conquer series, and this competition fostered an RTS boom in the mid to late 1990s.
+> Duck Hunt is a light gun shooter video game developed and published by Nintendo for the Nintendo Entertainment System (NES) video game console. First released in Japan on April 21, 1984, it was later released on October 18, 1985 in North America as a launch game for the NES, and on August 15, 1987 in Europe. The game was released as a Virtual Console title for the Wii U in 2014.
 
 ### Resources
-- [Warcraft - Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
-- [Gameplay - YouTube](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
-- [Warcraft: Orcs & Humans Remake's Source Code](https://github.com/acoto87/war1)
+- [Wikipedia - Duck Hunt](https://en.wikipedia.org/wiki/Duck_Hunt)
+- [Gameplay Video](https://www.youtube.com/watch?v=ZPLNxy7oel8)
+
 
 ## Wolfenstein 3D
 
@@ -161,6 +152,18 @@ From Wikipedia:
 - [Gameplay - YouTube](https://www.youtube.com/watch?v=FMK0znPb6Dc)
 - [Doom's Source Code](https://github.com/id-Software/DOOM)
 - [Game Engine Black Book: Doom](https://www.amazon.com/dp/1987418433/)
+
+## Warcraft: Orcs & Humans
+
+![Warcraft: Orcs & Humans](img/warcraft.gif)
+
+From Wikipedia:
+> Warcraft: Orcs & Humans is a real-time strategy game (RTS), developed by Blizzard Entertainment and published by Blizzard and Interplay Productions. The MS-DOS version was released on 23 November 1994 and the Macintosh version in early 1996. Sales were fairly high, reviewers were mostly impressed, and the game won three awards and was a finalist for three others. There was a CD re-release, namely version 1.21 (CD version), that didn't have the word-from-the-user-manual copy protection of prior versions. The sequel, Warcraft II: Tides of Darkness, became the main rival to Westwood Studios' Command & Conquer series, and this competition fostered an RTS boom in the mid to late 1990s.
+
+### Resources
+- [Warcraft - Wikipedia](https://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
+- [Gameplay - YouTube](https://www.youtube.com/playlist?list=PL8EEB4A96283FB8CF)
+- [Warcraft: Orcs & Humans Remake's Source Code](https://github.com/acoto87/war1)
 
 ## Minecraft
 
